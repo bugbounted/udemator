@@ -1,0 +1,11 @@
+{
+    "name": "udemator",
+    "description": "udemy auto enroll cli (beta)",
+    "repository": "https://github.com/elmirarokni/udemator",
+    "stack": "heroku-22",
+    "buildpacks": [
+        {   
+            "url": "heroku/python"  
+        }
+      ]
+  }

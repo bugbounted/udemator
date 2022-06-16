@@ -1,1 +1,1 @@
-worker: python duce.py
+web: python duce.py
